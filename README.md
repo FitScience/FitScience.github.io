@@ -1,2 +1,2 @@
-# FitScience.github.io
+# fitscience.github.io
 Hello World
