@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>17Mar21</string>
+			<string>2Aug21</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -334,7 +334,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>785CPL56AF.com.fit.science.athena</string>
+				<string>785CPL56AF.com.fitscience.athena2.0</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>785CPL56AF</string>
 				<key>get-task-allow</key>
@@ -345,11 +345,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>fb07ec27-5d88-425a-90f2-7a7c9da354f1</string>
+				<string>ced5fc79-ac91-4b20-bdb9-62aee1f11484</string>
 				<key>dateExpires</key>
 				<string>3/17/23</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.fit.science.athena</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.fitscience.athena2.0</string>
 			</dict>
 			<key>team</key>
 			<dict>
@@ -359,7 +359,7 @@
 				<string>Shweta Dahiya (Individual)</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0</string>
+			<string>1.2.1</string>
 		</dict>
 	</array>
 </dict>

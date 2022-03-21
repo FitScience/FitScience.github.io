@@ -17,21 +17,21 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://fitscience.github.io/athena/Athena2.0/Footsee-57x57.png</string>
+					<string>https://fitscience.github.io/athena/Athena2.0/Footsee.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://fitscience.github.io/athena/Athena2.0/Footsee-512x512.png</string>
+					<string>https://fitscience.github.io/athena/Athena2.0/Footsee.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fit.science.athena</string>
+				<string>com.fitscience.athena2.0</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
